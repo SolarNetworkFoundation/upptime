@@ -2,8 +2,18 @@ owner: SolarNetworkFoundation
 repo: upptime
 
 sites:
+  - name: SolarIn
+    url: $SOLARIN_URL
+    __dangerous__body_degraded_if_text_missing: '"allGood":true'
+    headers:
+      - "Accept: application/json"
   - name: SolarQuery
     url: $SOLARQUERY_URL
+    __dangerous__body_degraded_if_text_missing: '"allGood":true'
+    headers:
+      - "Accept: application/json"
+  - name: SolarUser
+    url: $SOLARUSER_URL
     __dangerous__body_degraded_if_text_missing: '"allGood":true'
     headers:
       - "Accept: application/json"
