@@ -4,6 +4,9 @@ repo: upptime
 sites:
   - name: SolarQuery
     url: $SOLARQUERY_URL
+    __dangerous__body_degraded_if_text_missing: '"allGood":true'
+    headers:
+      - "Accept: application/json"
 
 status-website:
   #cname: demo.upptime.js.org
