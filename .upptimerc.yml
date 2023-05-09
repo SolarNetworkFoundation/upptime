@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: SolarNetwork Status
   introTitle: "This site tracks system uptime statistics for SolarNetwork services hosted by SolarNetwork Foundation."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/SolarNetworkFoundation/upptime).
+  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/SolarNetworkFoundation/upptime).
   navbar:
     - title: Status
       href: /
