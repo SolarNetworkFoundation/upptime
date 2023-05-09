@@ -1,5 +1,23 @@
 [
   {
+    "name": "SolarIn",
+    "url": "$SOLARIN_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "solar-in",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 308,
+    "timeDay": 308,
+    "timeWeek": 308,
+    "timeMonth": 308,
+    "timeYear": 308,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "SolarQuery",
     "url": "$SOLARQUERY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -10,11 +28,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 726,
-    "timeWeek": 726,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 631,
+    "timeDay": 631,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "SolarUser",
+    "url": "$SOLARUSER_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "solar-user",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 55,
+    "timeDay": 55,
+    "timeWeek": 55,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {}
   }
 ]
