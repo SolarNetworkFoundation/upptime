@@ -7,6 +7,11 @@ sites:
     __dangerous__body_degraded_if_text_missing: '"allGood":true'
     headers:
       - "Accept: application/json"
+  - name: SolarOcpp
+    url: $SOLAROCPP_URL
+    __dangerous__body_degraded_if_text_missing: '"allGood":true'
+    headers:
+      - "Accept: application/json"
   - name: SolarQuery
     url: $SOLARQUERY_URL
     __dangerous__body_degraded_if_text_missing: '"allGood":true'
