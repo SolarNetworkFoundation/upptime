@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 422,
-    "timeWeek": 371,
-    "timeMonth": 363,
-    "timeYear": 360,
+    "time": 362,
+    "timeDay": 401,
+    "timeWeek": 366,
+    "timeMonth": 365,
+    "timeYear": 362,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 84,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "time": 74,
+    "timeDay": 96,
+    "timeWeek": 74,
+    "timeMonth": 74,
+    "timeYear": 74,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 338,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 316,
+    "timeDay": 375,
+    "timeWeek": 316,
+    "timeMonth": 316,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 422,
-    "timeDay": 421,
-    "timeWeek": 556,
-    "timeMonth": 400,
+    "timeDay": 434,
+    "timeWeek": 558,
+    "timeMonth": 401,
     "timeYear": 422,
     "dailyMinutesDown": {}
   },
@@ -76,17 +76,19 @@
     "url": "$SOLARUSER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-user",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 64,
-    "timeDay": 90,
-    "timeWeek": 71,
-    "timeMonth": 64,
-    "timeYear": 64,
-    "dailyMinutesDown": {}
+    "time": 68,
+    "timeDay": 189,
+    "timeWeek": 83,
+    "timeMonth": 68,
+    "timeYear": 68,
+    "dailyMinutesDown": {
+      "2023-06-11": 0
+    }
   }
 ]
