@@ -40,18 +40,20 @@
     "url": "$SOLAROSCP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-oscp",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 378,
-    "timeWeek": 322,
-    "timeMonth": 319,
-    "timeYear": 319,
-    "dailyMinutesDown": {}
+    "time": 315,
+    "timeDay": 312,
+    "timeWeek": 316,
+    "timeMonth": 315,
+    "timeYear": 315,
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   },
   {
     "name": "SolarQuery",
