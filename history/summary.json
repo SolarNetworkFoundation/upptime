@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 357,
-    "timeDay": 122,
+    "timeDay": 377,
     "timeWeek": 322,
-    "timeMonth": 360,
+    "timeMonth": 361,
     "timeYear": 357,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 25,
-    "timeWeek": 59,
+    "timeDay": 85,
+    "timeWeek": 63,
     "timeMonth": 70,
     "timeYear": 70,
     "dailyMinutesDown": {}
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-oscp",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 303,
-    "timeDay": 283,
-    "timeWeek": 293,
-    "timeMonth": 303,
-    "timeYear": 303,
-    "dailyMinutesDown": {
-      "2023-06-24": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 305,
+    "timeDay": 355,
+    "timeWeek": 300,
+    "timeMonth": 305,
+    "timeYear": 305,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SolarQuery",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 135,
-    "timeWeek": 683,
-    "timeMonth": 495,
-    "timeYear": 463,
+    "time": 462,
+    "timeDay": 371,
+    "timeWeek": 691,
+    "timeMonth": 497,
+    "timeYear": 462,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 75,
-    "timeDay": 25,
-    "timeWeek": 118,
-    "timeMonth": 81,
+    "timeDay": 85,
+    "timeWeek": 122,
+    "timeMonth": 82,
     "timeYear": 75,
     "dailyMinutesDown": {}
   }
