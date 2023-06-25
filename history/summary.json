@@ -58,18 +58,20 @@
     "url": "$SOLARQUERY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-query",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 371,
-    "timeWeek": 691,
-    "timeMonth": 497,
-    "timeYear": 462,
-    "dailyMinutesDown": {}
+    "time": 521,
+    "timeDay": 2043,
+    "timeWeek": 993,
+    "timeMonth": 591,
+    "timeYear": 521,
+    "dailyMinutesDown": {
+      "2023-06-25": 0
+    }
   },
   {
     "name": "SolarUser",
