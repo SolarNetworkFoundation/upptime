@@ -41,37 +41,37 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-oscp",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 168,
     "timeWeek": 281,
     "timeMonth": 294,
     "timeYear": 294,
-    "dailyMinutesDown": {
-      "2023-06-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SolarQuery",
     "url": "$SOLARQUERY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-query",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 178,
-    "timeWeek": 927,
-    "timeMonth": 575,
-    "timeYear": 508,
-    "dailyMinutesDown": {}
+    "time": 600,
+    "timeDay": 3068,
+    "timeWeek": 1346,
+    "timeMonth": 724,
+    "timeYear": 600,
+    "dailyMinutesDown": {
+      "2023-06-27": 0
+    }
   },
   {
     "name": "SolarUser",
