@@ -1,7 +1,7 @@
 url: $SOLAROCPP_URL
-status: up
+status: degraded
 code: 200
-responseTime: 45
-lastUpdated: 2023-12-21T18:52:52.869Z
+responseTime: 11038
+lastUpdated: 2023-12-21T21:55:56.200Z
 startTime: 2023-06-05T03:57:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
