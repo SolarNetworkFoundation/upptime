@@ -1,7 +1,7 @@
 url: $SOLARQUERY_URL
-status: degraded
+status: up
 code: 200
-responseTime: 778
-lastUpdated: 2024-01-21T05:35:52.328Z
+responseTime: 389
+lastUpdated: 2024-01-21T05:51:46.926Z
 startTime: 2023-05-09T01:01:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
