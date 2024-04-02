@@ -1,7 +1,7 @@
 url: $SOLARIN_URL
-status: up
+status: degraded
 code: 200
-responseTime: 407
-lastUpdated: 2024-04-01T23:16:49.118Z
+responseTime: 444
+lastUpdated: 2024-04-02T01:21:09.585Z
 startTime: 2023-05-09T02:29:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
