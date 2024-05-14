@@ -1,7 +1,7 @@
 url: $SOLARUSER_URL
-status: up
+status: degraded
 code: 200
-responseTime: 24
-lastUpdated: 2024-05-13T23:16:02.613Z
+responseTime: 83
+lastUpdated: 2024-05-14T04:47:27.121Z
 startTime: 2023-05-09T02:29:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
