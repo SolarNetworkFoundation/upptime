@@ -13,7 +13,7 @@
     "time": 344,
     "timeDay": 319,
     "timeWeek": 289,
-    "timeMonth": 306,
+    "timeMonth": 309,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2024-05-14": 50,
@@ -52,9 +52,9 @@
     "slug": "solar-oscp",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.89%",
     "time": 306,
     "timeDay": 298,
@@ -62,7 +62,6 @@
     "timeMonth": 336,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2024-06-30": 6,
       "2024-06-24": 16,
       "2024-06-13": 30,
       "2024-06-04": 47,
@@ -101,7 +100,7 @@
     "time": 641,
     "timeDay": 2858,
     "timeWeek": 1182,
-    "timeMonth": 1263,
+    "timeMonth": 1289,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2024-06-12": 23,
@@ -129,7 +128,7 @@
     "time": 96,
     "timeDay": 67,
     "timeWeek": 140,
-    "timeMonth": 126,
+    "timeMonth": 128,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2024-05-14": 113,
