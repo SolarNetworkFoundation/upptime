@@ -1,7 +1,7 @@
 url: $SOLARUSER_URL
 status: degraded
 code: 503
-responseTime: 81
-lastUpdated: 2025-04-26T20:24:57.089Z
+responseTime: 58
+lastUpdated: 2025-04-26T23:20:01.633Z
 startTime: 2023-05-09T02:29:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
