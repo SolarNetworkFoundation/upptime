@@ -49,9 +49,9 @@
     "slug": "solar-oscp",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "97.98%",
     "time": 344,
     "timeDay": 404,
@@ -59,7 +59,6 @@
     "timeMonth": 336,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2026-01-25": 6,
       "2026-01-23": 62,
       "2026-01-22": 26,
       "2026-01-21": 17,
@@ -159,12 +158,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.83%",
     "time": 895,
     "timeDay": 452,
     "timeWeek": 354,
     "timeMonth": 758,
-    "timeYear": 979,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2026-01-13": 119,
       "2025-09-19": 29,
@@ -173,8 +172,7 @@
       "2025-04-23": 17,
       "2025-04-18": 134,
       "2025-04-17": 22,
-      "2025-03-18": 18,
-      "2025-01-26": 110
+      "2025-03-18": 18
     }
   },
   {
