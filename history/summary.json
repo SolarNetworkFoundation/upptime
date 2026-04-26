@@ -10,15 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 363,
-    "timeDay": 550,
-    "timeWeek": 375,
-    "timeMonth": 639,
+    "time": 364,
+    "timeDay": 552,
+    "timeWeek": 386,
+    "timeMonth": 642,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2025-05-01": 27,
-      "2025-04-27": 281,
-      "2025-04-26": 215
+      "2025-04-27": 281
     }
   },
   {
@@ -33,13 +32,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 66,
-    "timeDay": 80,
-    "timeWeek": 58,
-    "timeMonth": 156,
+    "timeDay": 93,
+    "timeWeek": 61,
+    "timeMonth": 157,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2025-04-27": 236,
-      "2025-04-26": 215
+      "2025-04-27": 236
     }
   },
   {
@@ -52,12 +50,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.21%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.92%",
     "time": 353,
-    "timeDay": 454,
-    "timeWeek": 347,
-    "timeMonth": 588,
-    "timeYear": 358,
+    "timeDay": 634,
+    "timeWeek": 376,
+    "timeMonth": 592,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2026-04-22": 71,
       "2026-04-12": 69,
@@ -145,8 +143,7 @@
       "2025-05-04": 82,
       "2025-05-02": 22,
       "2025-04-28": 76,
-      "2025-04-27": 236,
-      "2025-04-26": 215
+      "2025-04-27": 236
     }
   },
   {
@@ -156,15 +153,15 @@
     "slug": "solar-query",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "95.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.82%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.81%",
     "time": 868,
-    "timeDay": 473,
-    "timeWeek": 310,
-    "timeMonth": 362,
-    "timeYear": 446,
+    "timeDay": 569,
+    "timeWeek": 326,
+    "timeMonth": 368,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2026-04-24": 220,
       "2026-04-23": 0,
@@ -172,8 +169,7 @@
       "2026-03-02": 50,
       "2026-01-13": 119,
       "2025-09-19": 29,
-      "2025-04-27": 343,
-      "2025-04-26": 215
+      "2025-04-27": 343
     }
   },
   {
@@ -183,20 +179,19 @@
     "slug": "solar-user",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "95.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.82%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.85%",
     "time": 145,
-    "timeDay": 105,
-    "timeWeek": 204,
+    "timeDay": 103,
+    "timeWeek": 205,
     "timeMonth": 114,
     "timeYear": 93,
     "dailyMinutesDown": {
       "2026-04-24": 220,
       "2025-11-04": 103,
-      "2025-04-27": 236,
-      "2025-04-26": 215
+      "2025-04-27": 236
     }
   }
 ]
