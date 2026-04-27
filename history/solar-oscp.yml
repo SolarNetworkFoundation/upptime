@@ -1,7 +1,7 @@
 url: $SOLAROSCP_URL
-status: up
+status: degraded
 code: 200
-responseTime: 521
-lastUpdated: 2026-04-26T23:42:22.569Z
+responseTime: 509
+lastUpdated: 2026-04-27T22:32:51.436Z
 startTime: 2023-06-05T05:31:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
