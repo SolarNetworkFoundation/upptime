@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 364,
-    "timeDay": 552,
-    "timeWeek": 386,
+    "timeDay": 481,
+    "timeWeek": 414,
     "timeMonth": 642,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2025-05-01": 27,
-      "2025-04-27": 281
+      "2025-05-01": 27
     }
   },
   {
@@ -30,15 +29,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 66,
-    "timeDay": 93,
-    "timeWeek": 61,
-    "timeMonth": 157,
+    "timeDay": 86,
+    "timeWeek": 70,
+    "timeMonth": 158,
     "timeYear": 67,
-    "dailyMinutesDown": {
-      "2025-04-27": 236
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SolarOscp",
@@ -50,11 +47,11 @@
     "uptimeDay": "94.68%",
     "uptimeWeek": "98.54%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "97.91%",
-    "time": 353,
-    "timeDay": 393,
-    "timeWeek": 357,
-    "timeMonth": 579,
+    "uptimeYear": "97.98%",
+    "time": 354,
+    "timeDay": 355,
+    "timeWeek": 386,
+    "timeMonth": 581,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2026-04-26": 77,
@@ -143,8 +140,7 @@
       "2025-05-11": 45,
       "2025-05-04": 82,
       "2025-05-02": 22,
-      "2025-04-28": 76,
-      "2025-04-27": 236
+      "2025-04-28": 76
     }
   },
   {
@@ -157,11 +153,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.82%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.81%",
-    "time": 868,
-    "timeDay": 569,
-    "timeWeek": 326,
-    "timeMonth": 368,
+    "uptimeYear": "99.88%",
+    "time": 869,
+    "timeDay": 438,
+    "timeWeek": 363,
+    "timeMonth": 371,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2026-04-24": 220,
@@ -169,8 +165,7 @@
       "2026-04-16": 40,
       "2026-03-02": 50,
       "2026-01-13": 119,
-      "2025-09-19": 29,
-      "2025-04-27": 343
+      "2025-09-19": 29
     }
   },
   {
@@ -183,16 +178,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.82%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.93%",
     "time": 145,
-    "timeDay": 103,
+    "timeDay": 114,
     "timeWeek": 205,
-    "timeMonth": 114,
+    "timeMonth": 115,
     "timeYear": 93,
     "dailyMinutesDown": {
       "2026-04-24": 220,
-      "2025-11-04": 103,
-      "2025-04-27": 236
+      "2025-11-04": 103
     }
   }
 ]
